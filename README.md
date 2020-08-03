@@ -1,0 +1,1 @@
+Write a program that converts a sentence input by the user into pig latin. You can assume that the sentence contains no punctuation.  There are other versions of nonsense language, and you could choose another nonsense language instead of pig latin. (such as Gibberish or Openglopish). Or you can make up your own language.
